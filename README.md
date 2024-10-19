@@ -4,15 +4,16 @@ I'm HexSh1dow, a passionate hacker and cybersecurity enthusiast dedicated to enh
 
 🔧 What I Do
 
-Ethical Hacking: Exposing vulnerabilities and strengthening defense strategies.
-Malware Development: Crafting tools to challenge security measures.
-Bug Hunting: Searching for weaknesses in systems to improve security.
-Programming: Refining coding skills to build effective solutions.
+° Ethical Hacking: Exposing vulnerabilities and strengthening defense strategies.
+° Bug Hunting: Searching for weaknesses in systems to improve security.
+° Programming: Refining coding skills to build effective solutions.
+° Malware Development: Crafting tools to challenge security measures.
+
 
 🚀 My Projects
 
-LOXS: A multi-vulnerability scanner for web applications, detecting various vulnerabilities like SQL Injection and XSS.
+° LOXS: A multi-vulnerability scanner for web applications, detecting various vulnerabilities like SQL Injection and XSS.
 
 📫 Let's Connect
-Follow me on X (formerly Twitter)
-Hack smart, stay ethical, and remain in the shadows.
+
+° Follow me on X (formerly Twitter)
