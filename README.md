@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-Hi there! I'm **HexSh1dow**, a passionate hacker and cybersecurity enthusiast dedicated to enhancing digital security. My work revolves around identifying vulnerabilities, developing innovative tools, and conducting thorough system analyses to tackle the complexities of security.
+Hi there! I'm **hexsh1dow**, a passionate hacker and cybersecurity enthusiast dedicated to enhancing digital security. My work revolves around identifying vulnerabilities, developing innovative tools, and conducting thorough system analyses to tackle the complexities of security.
 
 ## 🔧 What I Do
 
@@ -15,6 +15,6 @@ Hi there! I'm **HexSh1dow**, a passionate hacker and cybersecurity enthusiast de
 
 ## 📫 Let's Connect
 
-- Follow me on [X (formerly Twitter)](https://twitter.com/yourprofile) for updates and discussions on cybersecurity.
+- Follow me on [X (formerly Twitter)](https://twitter.com/hexsh1dow) for updates and discussions on cybersecurity.
 
 Thank you for visiting my profile! If you have any questions or want to collaborate, feel free to reach out!
