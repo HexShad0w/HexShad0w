@@ -12,6 +12,7 @@ Hi there! I'm **hexsh1dow**, a passionate hacker and cybersecurity enthusiast de
 ## 🚀 Projects
 
 - **LOXS:** A multi-vulnerability scanner for web applications, detecting various vulnerabilities like SQL Injection and XSS.
+- **Hexafinder:** A simple yet powerful tool for automated subdomain enumeration
 
 ## 📫 Let's Connect
 
