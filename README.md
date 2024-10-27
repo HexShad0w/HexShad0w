@@ -13,6 +13,9 @@ Hi there! I'm **hexsh1dow**, a passionate hacker and cybersecurity enthusiast de
 
 - **LOXS:** A multi-vulnerability scanner for web applications, detecting various vulnerabilities like SQL Injection and XSS.
 - **Hexafinder:** A simple yet powerful tool for automated subdomain enumeration
+- **Hexa Keylogger:** A Python program that captures keystrokes and sends them to a Telegram chat via the Bot API.
+
+Feel free to try it and send feedback! 😊
 
 ## 📫 Let's Connect
 
