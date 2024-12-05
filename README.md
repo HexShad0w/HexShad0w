@@ -13,7 +13,7 @@ Hi there! I'm **hexsh1dow**, a passionate hacker and cybersecurity enthusiast de
 
 - **LOXS:** A multi-vulnerability scanner for web applications, detecting various vulnerabilities like SQL Injection and XSS.
 - **NetSifter:** is a robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering.
-- **hexsqli:** A Python-based tool designed to help users understand how to create tools for detecting potential SQL Injection
+- **Hexsqli:** A Python-based tool designed to help users understand how to create tools for detecting potential SQL Injection
 - **Hexafinder:** A simple yet powerful tool for automated subdomain enumeration
 - **Hexa Keylogger:** A Python program that captures keystrokes and sends them to a Telegram chat via the Bot API.
 - **HexaGrabber:** a Chrome extension designed to quickly grab all URLs from the current page.
