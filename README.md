@@ -19,8 +19,4 @@ Hi there! I'm **hexsh1dow**, a passionate hacker and cybersecurity enthusiast de
 - **Hexa Keylogger:** A Python program that captures keystrokes and sends them to a Telegram chat via the Bot API.
 - **HexaGrabber:** a Chrome extension designed to quickly grab all URLs from the current page.
 
-## 📫 Let's Connect
-
-- Follow me on [X (formerly Twitter)](https://twitter.com/hexsh1dow) for updates and discussions on cybersecurity.
-
 Thank you for visiting my profile! If you have any questions or want to collaborate, feel free to reach out!
