@@ -12,6 +12,7 @@ Hi there! I'm **hexsh1dow**, a passionate hacker and cybersecurity enthusiast de
 ## 🚀 Projects
 
 - **LOXS:** A multi-vulnerability scanner for web applications, detecting various vulnerabilities like SQL Injection and XSS.
+- **Hexa_VirusTotal:** A tool made to analyse the hash of a potential malicious code that compare with the VirusTotal's malware database using there API
 - **NetSifter:** is a robust and versatile networking tool designed for comprehensive web enumeration, scanning, and information gathering.
 - **Sh1dowQLI:** A Python-based SQL Injection Scanner. The tool supports Error-Based SQL Injection and Time-Based SQL Injection.
 - **Hexsqli:** A Python-based tool designed to help users understand how to create tools for detecting potential SQL Injection
